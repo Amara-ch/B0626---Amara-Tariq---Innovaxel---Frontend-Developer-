@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # Spendly
 ### Personal Expense Tracker
